@@ -1,2 +1,4 @@
 # TSF_Internship_Task5
-# Task-4: To Explore Decision Tree Algorithm.      For the given iris dataset, I have created the decision tree classifier and visualised it graphically.The purpose is if we feed any new data to this classifier,it would be able to predict the right class accordingly.
+
+Objective is to perform 'Exploratory Data Analysis, on the provided dataset of 'SampleStore'.
+If we are business owner of the retail firm and want to see how our company is performing. We are interested in finding out the weak areas where we can work to make more profit.
